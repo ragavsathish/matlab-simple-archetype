@@ -16,4 +16,11 @@ maven-archetype-matlab-simple is an archetype which contains a sample Maven proj
 
 ## Usage
 
-	            
+```
+mvn archetype:generate -DgroupId=io.matlab -DartifactId=my-app \
+-DarchetypeGroupId=io.matlab \
+-DarchetypeArtifactId=matlab-simple-archetype \
+-DarchetypeVersion=1.0-SNAPSHOT \
+-DinteractiveMode=false
+
+```
