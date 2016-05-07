@@ -1,0 +1,9 @@
+<archetype>
+  <id>matlab-simple-archetype</id>
+  <sources>
+    <source>src/main/matlab/App.m</source>
+  </sources>
+  <testSources>
+    <source>src/test/matlab/AppTest.m</source>
+  </testSources>
+</archetype>
