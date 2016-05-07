@@ -24,5 +24,11 @@
         <include>**/*.m</include>
       </includes>
     </fileSet>
+    <fileSet filtered="true" encoding="UTF-8">
+      <directory>src/assembly</directory>
+      <includes>
+        <include>bin.xml</include>
+      </includes>
+    </fileSet>
   </fileSets>
 </archetype-descriptor>
