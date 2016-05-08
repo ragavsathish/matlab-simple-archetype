@@ -6,6 +6,9 @@
         <requiredProperty key="groupId" />
         <requiredProperty key="artifactId"/>
         <requiredProperty key="version" />
+        <requiredProperty key="package">
+          <defaultValue>+sample</defaultValue>
+        </requiredProperty>
     </requiredProperties>
   <fileSets>
     <fileSet filtered="true" packaged="true" encoding="UTF-8">
