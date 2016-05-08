@@ -9,7 +9,8 @@ maven-archetype-matlab-simple is an archetype which contains a sample Maven proj
 		|	`-- bin.xml (Packaging instructions)
 	    |-- main
 	    |   `-- matlab
-	    |       `-- App.java (Source code)
+	    |		`-- +sample
+	    |       	`-- App.java (Source code)
 	    `-- test
 	        `-- matlab
 	            `-- AppTest.java (Test code)
