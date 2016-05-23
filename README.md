@@ -10,10 +10,10 @@ maven-archetype-matlab-simple is an archetype which contains a sample Maven proj
 	    |-- main
 	    |   `-- matlab
 	    |		`-- +sample
-	    |       	`-- App.java (Source code)
+	    |       	`-- App.m (Source code)
 	    `-- test
 	        `-- matlab
-	            `-- AppTest.java (Test code)
+	            `-- AppTest.m (Test code)
 
 ## Usage
 
