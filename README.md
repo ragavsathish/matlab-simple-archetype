@@ -15,6 +15,14 @@ maven-archetype-matlab-simple is an archetype which contains a sample Maven proj
 	        `-- matlab
 	            `-- AppTest.m (Test code)
 
+## Installation
+
+``` 
+git clone https://github.com/ragavsathish/matlab-simple-archetype.git
+cd matlab-simple-archetype
+mvn clean install
+```
+
 ## Usage
 
 ```
